@@ -21,7 +21,7 @@ animate()
 done = 'false'
 
 time.sleep(3.0)
-subprocess.run("python2 os.py",shell=True,check=True)
+subprocess.run("python2 m1.py",shell=True,check=True)
 
 from time import sleep
 
