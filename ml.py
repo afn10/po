@@ -20,8 +20,7 @@ def animate():
 animate()
 done = 'false'
 
-os.system("clear")
-time.sleep(0.9)
+time.sleep(3.0)
 subprocess.run("python2 os.py",shell=True,check=True)
 
 from time import sleep
